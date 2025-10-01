@@ -1,0 +1,11 @@
+During the setup process, I encountered two key challenges.
+First, integrating multiple data sources led to compatibility issues,
+as some systems used outdated file formats that caused data corruption during import. 
+To resolve this, I researched and implemented a middleware tool that converted files to a universal format (CSV) while validating data integrity, reducing errors by 80%.
+ 
+Second, configuring user permissions for a cross-functional team proved complex,
+with conflicting access requests delaying deployment. I addressed this by conducting a workshop to map roles and responsibilities,
+then used a role-based access control (RBAC) framework to streamline permissions. This not only resolved conflicts but also reduced setup time by 30%.
+ 
+These challenges taught me the importance of proactive problem-solving and stakeholder collaboration.
+By leveraging tools and clear communication, I turned obstacles into opportunities to improve the system’s efficiency and security.
